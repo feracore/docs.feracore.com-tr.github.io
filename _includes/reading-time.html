@@ -1,0 +1,7 @@
+
+{% assign words = content | number_of_words %}
+{% if words < 300 %}
+    1 dakikalık okuma
+{% else %}
+    {{ words | divided_by:150 }} dakikalık okuma
+{% endif %}

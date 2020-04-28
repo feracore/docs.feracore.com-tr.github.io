@@ -1,0 +1,20 @@
+#This file defines all the categories you 
+
+
+baslangic:
+  name: Başlangıç
+  description: Feracore'a hoş geldin, şimdi başlamanın tam zamanı!
+  img: assets/013-working.png
+kullanim:
+  name: Feracore'u Kullanmak
+  description: Welcome to Odin, time to get started
+  img: assets/004-cabinet.png
+ozellestirmek:
+  name: Feracore'u Özelleştirmek
+  description: Feracore'u özelleştirin ve entegre edin!
+  img: assets/014-home office.png
+
+socialplus:
+  name: Social+
+  description: Yakında...
+  img: assets/008-global communication.png
