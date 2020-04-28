@@ -20,8 +20,8 @@
 
 title: Feracore Support
 description: Hayat Koçunuz
-baseurl:  # the subpath of your site, e.g. /support
-url: https://teaguns.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+baseurl: /docs.feracore.com-tr.github.io # the subpath of your site, e.g. /support
+url: https://feracore.github.io/ # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 future: true
 
