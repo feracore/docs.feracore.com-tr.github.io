@@ -48,4 +48,4 @@ Bu makaleyi yer imlerine ekleyin veya paylaşın
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/tr_TR/sdk.js#xfbml=1&version=v6.0&appId=457279401617877&autoLogAppEvents=1"></script>
-<div class="fb-share-button" data-href="http://docs.feracore.com/tr/kullanim/guvenlik-ve-verileriniz" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fdocs.feracore.com%2Ftr%2Fkullanim%2Fguvenlik-ve-verileriniz&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Paylaş</a></div>
+<div class="fb-share-button" data-href="http://destek.feracore.com/kullanim/topluluk-destegi" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fdestek.feracore.com%2Fkullanim%2Ftopluluk-destegi&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Paylaş</a></div>
