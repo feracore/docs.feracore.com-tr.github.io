@@ -1,6 +1,10 @@
 #This file defines all the categories you 
 
 
+duyurular:
+  name: Duyurular
+  description: Yazıyoor, yazıyor!
+  img: assets/022-news.png
 baslangic:
   name: Başlangıç
   description: Feracore'a hoş geldin, şimdi başlamanın tam zamanı!
@@ -13,10 +17,6 @@ ozellestirmek:
   name: Feracore'u Özelleştirmek
   description: Feracore'u özelleştirin ve entegre edin!
   img: assets/014-home office.png
-duyurular:
-  name: Duyurular
-  description: Yazıyoor, yazıyor!
-  img: assets/022-news.png
 
 socialplus:
   name: Social+
