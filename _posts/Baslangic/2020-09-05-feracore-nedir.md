@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Feracore nedir?"
-date: 2020-09-05 14:00:00 -0400
+date: 2020-09-06 14:30:00 -0400
 category: baslangic
 author: mac
 short-description: Feracore'un ne olduğuna kısaca göz atın
