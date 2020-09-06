@@ -11,7 +11,7 @@ short-description: Başlamak için Feracore'a hızlı bir genel bakış
 
 Başlamak için, chatbot'a tatlı bir [merhaba diyin](https://www.feracore.com/chatbot).
 
-**Chatbot, sizin psikolojik ihtiyaçlarınıza yardım etmek için özel olarak tasarlandı**. Kimseye bir şey anlatmaz :) 
+**Chatbot, sizin psikolojik ihtiyaçlarınıza yardım etmek için özel olarak tasarlandı**.
 
 Proje içinde bulunanlar:
 
