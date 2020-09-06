@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chatbot'u kullanmak"
-date: 2020-04-20 14:00:00 -0400
+date: 2020-09-06 14:00:00 -0400
 category: baslangic
 author: mac
 short-description: Başlamak için Feracore'a hızlı bir genel bakış
