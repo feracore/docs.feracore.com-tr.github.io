@@ -20,8 +20,8 @@
 
 title: Feracore Support
 description: Feracore için yardıma mı ihtiyacınız var? Biz seninleyiz. Başlangıçtan özelleştirmeye kadar, Feracore ile ilgili her şey için yardım bulun.
-baseurl:  # the subpath of your site, e.g. /support
-url: https://destek.feracore.com # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+baseurl: /docs.feracore.com-tr.github.io # the subpath of your site, e.g. /support
+url: https://feracore.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 permalink: /:categories/:title
 future: true
 
